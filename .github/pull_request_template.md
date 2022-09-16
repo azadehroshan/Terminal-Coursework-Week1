@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTML/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name: Azadeh Roshanbakhsh_Ghanbari
+- Your City: MAnchester
+- Your Slack Name: Azadeh Roshanbakhsh_Ghanbari
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: Js
+- Week: week2
